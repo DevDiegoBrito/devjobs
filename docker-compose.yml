@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  devjobs:
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      # montamos el código fuente para que los cambios se reflejen sin reconstruir
+      # nota: cambios en nginx.conf sí requieren rebuild
+      - .:/usr/share/nginx/html:ro
+    restart: unless-stopped
