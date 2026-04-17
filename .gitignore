@@ -1,0 +1,9 @@
+# devjobs .gitignore
+
+# docker stuff
+.docker/
+
+# misc
+.DS_Store
+*.log
+.env
