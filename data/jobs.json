@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "DevOps Engineer",
+    "company": "Nubank",
+    "location": "São Paulo, BR",
+    "modality": "remote",
+    "salary": "$4,500 - $6,000 USD/mo",
+    "category": "devops",
+    "tags": ["Docker", "Kubernetes", "Terraform", "AWS", "CI/CD"],
+    "description": "We're looking for someone to help us maintain and improve our CI/CD pipelines. You'll work closely with dev teams to automate deployments and keep infra healthy. Experience with Kubernetes is a plus but we can teach you if you know the basics."
+  },
+  {
+    "id": 2,
+    "title": "Cloud Infrastructure Engineer",
+    "company": "Rappi",
+    "location": "Bogotá, CO",
+    "modality": "hybrid",
+    "salary": "$3,800 - $5,200 USD/mo",
+    "category": "cloud",
+    "tags": ["GCP", "Terraform", "Python", "Linux", "Ansible"],
+    "description": "Join our infra team to help scale our cloud environments. You'll be managing GCP resources, writing Terraform modules and collaborating with SRE on reliability. We move fast so being comfortable with uncertainty is important."
+  },
+  {
+    "id": 3,
+    "title": "Backend Developer (Node.js)",
+    "company": "Platzi",
+    "location": "Remote, LATAM",
+    "modality": "remote",
+    "salary": "$2,800 - $4,000 USD/mo",
+    "category": "backend",
+    "tags": ["Node.js", "PostgreSQL", "Redis", "Docker", "REST API"],
+    "description": "We need a backend dev to build and maintain APIs that power our learning platform. You'll work with a small team, write clean code and help improve our deployment process. Familiarity with Docker is required."
+  },
+  {
+    "id": 4,
+    "title": "Frontend Developer (React)",
+    "company": "MercadoLibre",
+    "location": "Buenos Aires, AR",
+    "modality": "hybrid",
+    "salary": "$3,200 - $4,500 USD/mo",
+    "category": "frontend",
+    "tags": ["React", "TypeScript", "CSS", "Git", "Jest"],
+    "description": "Frontend role in our catalog team. You'll build UI components, optimize performance and work with design to ship product features. We use React + TypeScript and we care a lot about accessibility."
+  },
+  {
+    "id": 5,
+    "title": "Site Reliability Engineer (SRE)",
+    "company": "Globant",
+    "location": "Medellín, CO",
+    "modality": "remote",
+    "salary": "$5,000 - $7,500 USD/mo",
+    "category": "devops",
+    "tags": ["Kubernetes", "Prometheus", "Grafana", "Go", "AWS"],
+    "description": "SRE role focused on observability and reliability. You'll own monitoring stacks, set SLOs and be on-call rotation. Experience with Prometheus and Grafana is required. Go knowledge is a big plus."
+  },
+  {
+    "id": 6,
+    "title": "Full Stack Developer",
+    "company": "Deel",
+    "location": "Remote, Worldwide",
+    "modality": "remote",
+    "salary": "$4,000 - $6,500 USD/mo",
+    "category": "fullstack",
+    "tags": ["React", "Node.js", "PostgreSQL", "AWS", "Docker"],
+    "description": "We're growing fast and need full stack engineers who can pick up context quickly and ship. You'll work across frontend and backend, deploy to AWS and help shape how we build. Async-first culture."
+  },
+  {
+    "id": 7,
+    "title": "AWS Cloud Architect",
+    "company": "Accenture",
+    "location": "Lima, PE",
+    "modality": "onsite",
+    "salary": "$6,000 - $9,000 USD/mo",
+    "category": "cloud",
+    "tags": ["AWS", "CloudFormation", "Lambda", "RDS", "Security"],
+    "description": "Design and implement cloud solutions for enterprise clients. You'll lead architecture reviews, write CloudFormation templates and guide junior engineers. AWS Solutions Architect certification preferred."
+  },
+  {
+    "id": 8,
+    "title": "DevOps Jr / CI-CD Specialist",
+    "company": "Lemon Cash",
+    "location": "Remote, AR/CO/MX",
+    "modality": "remote",
+    "salary": "$1,800 - $2,800 USD/mo",
+    "category": "devops",
+    "tags": ["GitHub Actions", "Docker", "Linux", "Bash", "Nginx"],
+    "description": "Good entry point for someone starting in DevOps. You'll maintain GitHub Actions pipelines, help with Docker setups and fix infra issues as they come. We don't expect you to know everything, we just want someone who's eager to learn and not afraid of the terminal."
+  },
+  {
+    "id": 9,
+    "title": "Backend Engineer (Python)",
+    "company": "NotCo",
+    "location": "Santiago, CL",
+    "modality": "hybrid",
+    "salary": "$2,500 - $4,000 USD/mo",
+    "category": "backend",
+    "tags": ["Python", "FastAPI", "PostgreSQL", "Docker", "Celery"],
+    "description": "We need a Python backend engineer to build internal tools and APIs. You'll design data models, optimize queries and keep services running. Our stack is FastAPI + PostgreSQL and we containerize everything."
+  },
+  {
+    "id": 10,
+    "title": "Frontend Engineer (Vue.js)",
+    "company": "Bancolombia",
+    "location": "Medellín, CO",
+    "modality": "onsite",
+    "salary": "$2,200 - $3,500 USD/mo",
+    "category": "frontend",
+    "tags": ["Vue.js", "JavaScript", "SCSS", "Git", "Figma"],
+    "description": "Join the digital banking team to build internal dashboards and client-facing features. You'll work with designers and backend devs. Vue 3 experience required. Spanish fluency is a must for this role."
+  },
+  {
+    "id": 11,
+    "title": "Platform Engineer",
+    "company": "Konfio",
+    "location": "Mexico City, MX",
+    "modality": "hybrid",
+    "salary": "$4,000 - $5,500 USD/mo",
+    "category": "devops",
+    "tags": ["Terraform", "GCP", "Helm", "Kubernetes", "Python"],
+    "description": "Help us build and maintain the internal developer platform. You'll work on Terraform modules, Helm charts and Kubernetes operators. Ideal candidate enjoys solving infrastructure problems as code and has experience with GCP."
+  },
+  {
+    "id": 12,
+    "title": "Full Stack Engineer (Next.js)",
+    "company": "Fintual",
+    "location": "Remote, CL/MX",
+    "modality": "remote",
+    "salary": "$3,500 - $5,000 USD/mo",
+    "category": "fullstack",
+    "tags": ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Vercel"],
+    "description": "Small team, big impact. You'll own features end to end, from database schema to production deployment. We use Next.js with TypeScript and Prisma ORM. You'll have a lot of autonomy here."
+  }
+]
